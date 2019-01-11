@@ -1,0 +1,45 @@
+/*
+* Alexandra Mavridis
+* October 16, 2018
+* Recipe Project
+*/
+
+/* The universal selector */
+
+* { 
+
+
+}
+
+/* Body attributes here */
+header{
+    border-bottom: 2px solid #ef9c00;
+}
+
+body{
+    width: 964px;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+    
+}
+nav{
+    width: 180px;
+    height: 400px;
+    float: left;
+    border-right: 2px solid #ef9c00;
+}
+main {
+    width: 600px;
+    float: left;
+}
+aside {
+    width: 180px;
+    height: 400px;
+    float: left;
+    border-left: 2px solid #ef9c00;
+}
+footer {
+    border-top: 2px solid #ef9c00;
+    clear: both;
+}
